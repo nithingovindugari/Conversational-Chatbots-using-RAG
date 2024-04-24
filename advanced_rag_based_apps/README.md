@@ -20,7 +20,9 @@ OPENAI_API_KEY=your_api_key_here
 
 3. Run the Streamlit app by executing:
 
-streamlit run app.py
+```bash
+    streamlit run app.py
+```
 
 make sure to have the pdf's in the same directory and change the path in the code to the pdf's you want to use. PDF is just for the example you can use any text file or any other format or even from web pages and export the text from it. It is pretty simple to do that. refer https://python.langchain.com/docs/modules/data_connection/document_loaders/ for more information.
 
