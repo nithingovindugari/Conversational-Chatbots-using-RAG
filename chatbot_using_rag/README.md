@@ -61,4 +61,8 @@ make sure to have the pdf's in the same directory and change the path in the cod
 
 ---
 
+sample output:
+![alt text](image.png)
+
+## Conclusion
 Feel free to customize and enhance the chatbot according to your requirements. If you have any questions or feedback, please don't hesitate to reach out. 
