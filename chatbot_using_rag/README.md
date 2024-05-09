@@ -1,6 +1,6 @@
-# First Principle Chatbot
+# RAG Based Chatbot
 
-This is a RAG chatbot that provides responses based on first principles and analogies mainly based on Transformer Architecture paper, Although It is well known to all the gpt's the point is it can be replaced with any PDF's and just change to use only the context strictly in prompt.  
+This is a RAG chatbot that provides responses based on first principles mainly based on Transformer Architecture paper, Although It is well known to all the gpt's the point is it can be replaced with any PDF's and just change to use only the context strictly in prompt.  
 
 The Primary aim of this too is to assist users with their questions. The chatbot is designed to maintain clarity and brevity in its responses. It utilizes a combination of language models, document retrieval, and vector embeddings to generate relevant and informative answers.
 
