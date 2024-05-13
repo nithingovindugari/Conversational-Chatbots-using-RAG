@@ -1,5 +1,4 @@
-This repo contains several projects / appilcations related to Langchain and its components. The projects are:
-
+This repo contains several projects / appilcations related to RAG using Langchain and its components. 
 
 
 ![alt text](image.png)
